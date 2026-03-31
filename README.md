@@ -1,6 +1,6 @@
 # IVE SE Coursework Index
 
-A collection of coursework and projects completed during the IVE Software Engineering programme.
+A collection of coursework and projects completed during the IVE HD in Software Engineering (IT114105).
 
 ## Coursework Repositories
 
