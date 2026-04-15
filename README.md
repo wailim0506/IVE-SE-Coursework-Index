@@ -6,7 +6,7 @@ A collection of coursework and projects completed during the IVE HD in Software 
 
 | Subject Code | Project | Description | Link |
 |---|---|---|---|
-| FYP 2024 | Final Year Project | Capstone final year project for the IVE Software Engineering programme.<br> I mainly responsible for 'Management System', which is a PHP-based web system to manage the content to be shown on the app | [View Repo](https://github.com/wailim0506/IVE-SE-FYP-2024) |
+| ITE4116M | Final Year Project | Capstone final year project for the IVE Software Engineering programme.<br> I mainly responsible for 'Management System', which is a PHP-based web system to manage the content to be shown on the app | [View Repo](https://github.com/wailim0506/IVE-SE-FYP-2024) |
 | ITP4501 | Mathematics Game Android App | Android mobile game for practising mathematics | [View Repo](https://github.com/wailim0506/Mathematics_Game_Android_App) |
 | ITP4506 | UI Design Prototype (HCI Principles) | UI design prototype implementing Human-Computer Interaction principles | [View Repo](https://github.com/wailim0506/UI-design-prototype-implementing-HCI-principles) |
 | ITP4507 | Open-Closed Principle & Design Patterns | Implementation of the Open-Closed Principle and common Design Patterns | [View Repo](https://github.com/wailim0506/Implementing-Open-closed-principle-and-Design-patterns) |
