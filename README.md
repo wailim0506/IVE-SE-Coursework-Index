@@ -12,3 +12,4 @@ A collection of coursework and projects completed during the IVE HD in Software 
 | ITP4511 | Stock Management System for Fruit Company | Stock management system built for a fruit company | [View Repo](https://github.com/wailim0506/Stock-Managment-System-for-Fruit-Company) |
 | ITP4514 | YOLOv8 Traffic Sign Detection Model | Machine learning model for detecting traffic signs | [View Repo](https://github.com/wailim0506/YOLOv8-Traffic-Sign-Detection-Model) |
 | ITP4915M | Warehouse Management & Online Ordering Platform | Full-stack warehouse management and online ordering platform | [View Repo](https://github.com/wailim0506/Warehouse-Management-and-Online-Ordering-Platform) |
+| FYP 2024 | Final Year Project | Final year project repository | [View Repo](https://github.com/wailim0506/IVE-SE-FYP-2024) |
